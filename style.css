@@ -158,6 +158,10 @@ footer {
   }
 }
 
+.cfu-heading{
+  text-align: center;
+}
+
 @media (max-width: 600px) {
   .navbar {
     flex-direction: column;
